@@ -96,5 +96,6 @@ More properties were listed after 2022, showing growing market activity.
 ---
 
 ## Dashboard Screenshot
-https://github.com/ShubhaTheDataAnalyst/EU-Real-Estate-Analysis/blob/main/Market%20view.png
+
+<img width="1206" height="675" alt="image" src="https://github.com/user-attachments/assets/2df4e96e-d371-492a-bb24-ddd48bb6c00f" />
 
