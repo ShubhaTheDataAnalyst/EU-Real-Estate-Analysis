@@ -96,3 +96,4 @@ More properties were listed after 2022, showing growing market activity.
 ---
 
 ## Dashboard Screenshot
+
