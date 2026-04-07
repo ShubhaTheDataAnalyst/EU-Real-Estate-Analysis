@@ -100,3 +100,6 @@ More properties were listed after 2022, showing growing market activity.
 <img width="1206" height="675" alt="image" src="https://github.com/user-attachments/assets/2df4e96e-d371-492a-bb24-ddd48bb6c00f" />
 
 <img width="1197" height="677" alt="image" src="https://github.com/user-attachments/assets/0e34b631-7e2c-4cc3-8de4-6fb2e2639fc2" />
+
+<img width="1199" height="672" alt="image" src="https://github.com/user-attachments/assets/a6de9007-eb8d-4e19-8d0b-3fa72ee2b817" />
+
