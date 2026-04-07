@@ -1,4 +1,4 @@
-# 🏡 European Real Estate Analysis – Power BI Project
+# 🏡 European Real Estate Analysis
 
 **This project analyzes a European real estate dataset containing 5,000+ property listings.  
 The goal is to uncover meaningful insights about pricing, rent, amenities, property types, and market trends.
